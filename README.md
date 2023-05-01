@@ -3,15 +3,15 @@
  
  зайти в GitHub аккаунт ; 
  
- нажать на кнопку «new repository» ;
+ нажать на кнопку `new repository` ;
  
  ввести Repository name «JSON» ; 
  
- нажать на кнопку «Public» ; 
+ нажать на кнопку `Public` ; 
  
- поставить галочку «Add a README file» ; 
+ поставить галочку `Add a README file` ; 
  
- нажать на кнопку »Create repository»
+ нажать на кнопку `Create repository`
 
  2. Клонировать репозиторий JSON на локальный компьютер. - `git clone https://github.com/olyacenko/JSON.git`
 
