@@ -1,5 +1,5 @@
 # JSON
- 1. Create an external repository named JSON.
+ 1. Create a remote repository named JSON.
     - Go to GitHub account ;
     - click on the `new repository` button ;
     - enter Repository name "JSON" ;
@@ -183,7 +183,7 @@ dmitrijostalskij@MacBook-Pro-2 JSON %
     - click `Commit directly to the main branch` ;
     - click `Commit changes`
 ----
-17. Synchronize external and local JSON repository.
+17. Synchronize remote and local JSON repository.
 ```
 dmitrijostalskij@MacBook-Pro-2 JSON % git pull
 remote: Enumerating objects: 7, done.
